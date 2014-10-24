@@ -2,7 +2,7 @@
 
 -----------------------
 
-### Creates a hidden/readonly field in a repeater that gets a unique key, that won't change once it is saved. Ideal for user-generated forms. Inlcudes option to hide the field from the user
+### Creates a hidden/readonly field in a repeater that gets a unique key, that won't change once it is saved. Ideal for user-generated forms. Includes option to hide the field from the user
 
 
 ### Compatibility
