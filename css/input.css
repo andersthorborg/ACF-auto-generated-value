@@ -1,0 +1,10 @@
+.auto-generated-value-input-wrapper{
+    position: relative;
+}
+.auto-generated-value-input-wrapper .edit-link{
+    position: absolute;
+    right:5px;
+    top:5px;
+    color: #bbb;
+    cursor:pointer;
+}
